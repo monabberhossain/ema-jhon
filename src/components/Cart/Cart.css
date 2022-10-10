@@ -1,0 +1,8 @@
+.cart{
+    position: sticky;
+    top: 40px;
+}
+
+.cart-header{
+    text-align: center;
+}

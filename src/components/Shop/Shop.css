@@ -1,0 +1,18 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 40px;
+    padding: 40px 150px;
+}
+
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+}
+
+.order-container{    
+    padding: 10px;
+    background-color: beige;
+    border-radius: 10px;
+}
